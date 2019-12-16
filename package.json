@@ -1,0 +1,11 @@
+{
+  "name": "@alemarra89/test-log",
+  "version": "1.0.0",
+  "description": "Pacchetto di test con la sola funzionalità di log",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alessandro Marra",
+  "license": "ISC"
+}
