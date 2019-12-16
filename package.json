@@ -8,6 +8,7 @@
   },
   "author": "Alessandro Marra",
   "license": "ISC",
+  "private": false,
   "homepage": "https://github.com/alemarra89/test-log",
   "bugs": {
     "url": "https://github.com/alemarra89/test-log/issues",
