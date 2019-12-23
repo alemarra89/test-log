@@ -1,6 +1,6 @@
 {
   "name": "@alemarra89/test-log",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Pacchetto di test con la sola funzionalità di log",
   "main": "index.js",
   "scripts": {
